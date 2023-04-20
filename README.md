@@ -1,6 +1,6 @@
 # Who am I?
 
-I’m a video editor graduated in Social Communication with emphasis in Advertising from University of Vale do Rio dos Sinos, with over 15 years of experience in the area and I have worked with educational content since 2015. I'm a bilingual person, nowadays I'm studying Spanish focusing in becoming trilingual and I'm studying Frontend as well (HTML and CSS emphasis) looking forward to learn Javascrit, React and related in a soon future.
+I’m a Brazilian video editor graduated in Social Communication with emphasis in Advertising from University of Vale do Rio dos Sinos, with over 15 years of experience in the area and I have worked with educational content since 2015. I'm a bilingual person, nowadays I'm studying Spanish focusing in becoming trilingual and I'm studying Frontend as well (HTML and CSS emphasis) looking forward to learn Javascrit, React and related in a soon future.
 
 # What else did I get involved?
 
