@@ -9,3 +9,5 @@ In addition to traditional work, I have worked as a social media and writer (rev
 # And about te future...
 
 My biggest goal is to have a happy life through personal and professional development, always seeking knowledge and learning new things, as well as standing out in the areas of video editing, scripting, 3D modeling and programming.
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
